@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "gmail.application-name",
+    "type": "java.lang.String",
+    "description": "A description for 'gmail.application-name'"
+  },
+  {
+    "name": "gmail.token-server-url",
+    "type": "java.lang.String",
+    "description": "A description for 'gmail.token-server-url'"
+  },
+  {
+    "name": "gmail.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'gmail.client-id'"
+  },
+  {
+    "name": "gmail.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'gmail.client-secret'"
+  },
+  {
+    "name": "gmail.refresh-token",
+    "type": "java.lang.String",
+    "description": "A description for 'gmail.refresh-token'"
+  }
+]}
